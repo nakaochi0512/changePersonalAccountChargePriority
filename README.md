@@ -1,2 +1,3 @@
 # changePersonalAccountChargePriority
 クライアント・ソフトウェアが起動していない場合、個人アカウントとして課金する。
+学部アカウントとして課金する。
